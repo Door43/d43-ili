@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ili:home|Door43 (ili)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ili|d43-ili repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ili/archive/master.zip|d43-ili.zip]]
+
+**Recent Changes**
+{{changes>ns = ili}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ili|Ethnologue data]]
+
